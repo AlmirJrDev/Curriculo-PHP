@@ -1,0 +1,26 @@
+/* Exemplo de regras de estilo */
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+  }
+  
+  h2, h3 {
+    color: #333;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input, button {
+    margin-bottom: 10px;
+  }
+  
+  button#adicionar-experiencia {
+    font-size: 20px;
+    padding: 5px 10px;
+  }
+  
