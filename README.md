@@ -1,4 +1,4 @@
-# Gerador de currículos em PHP
+# Gerador de currículos em PHP - PROJETO FACULDADE UNIPAR
 
 Este é um projeto de gerador de currículos utilizando a linguagem PHP. Ele permite que você preencha um formulário com suas informações pessoais, formações acadêmicas, experiências profissionais e habilidades, e gera automaticamente um currículo em um dos três modelos disponíveis.
 
